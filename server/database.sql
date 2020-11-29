@@ -2,5 +2,5 @@ CREATE DATABASE perntodo;
 
 CREATE TABLE todo(
     todo_id SERIAL PRIMARY KEY,
-    descrption VARCHAR(255)
+    description VARCHAR(255)
 );
